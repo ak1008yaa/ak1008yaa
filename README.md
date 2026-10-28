@@ -1,16 +1,20 @@
-## Hi there 👋
+# ATLAS-DEV
 
-<!--
-**ak1008yaa/ak1008yaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Design and development of fast, accessible websites and web apps.
 
-Here are some ideas to get you started:
+- Website: [atlasdev.ir](https://atlasdev.ir)
+- Studio: [atlas-dev.pro](https://www.atlas-dev.pro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+Next.js, React, TypeScript, Tailwind CSS, Node.js, Cloudflare.
+
+## Work
+
+- [nextjs-boilerplate](https://github.com/ak1008yaa/nextjs-boilerplate) — Next.js 16 starter with strict TypeScript, Tailwind 4, CI and Dependabot.
+
+## Working principles
+
+- Ship small, reviewable changes behind CI.
+- Prefer boring, well-supported dependencies.
+- Treat performance and accessibility as features, not clean-up work.
